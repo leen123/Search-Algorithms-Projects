@@ -1,0 +1,23 @@
+
+8
+java:S1659
+""Declare "numR" on a separate line.(Â÷Ü†
+W
+java:S1126T"AReplace this if-then-else statement by a single return statement.(˜ÊØ
+g
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Âïü+
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(®ìí
+E
+java:S1481­")Remove this unused "side" local variable.(››¨¨úÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¤¨×öúÿÿÿÿ
+Z
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(Ã¤ú–ÿÿÿÿÿ
+Z
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(Õå–•şÿÿÿÿ
+Z
+java:S1155¸">Use isEmpty() to check whether the collection is empty or not.(ÑÙ¬˜ûÿÿÿÿ
+8
+java:S1643Ã"Use a StringBuilder instead.(†Å²ªùÿÿÿÿ
+3
+java:S1643Å"Use a StringBuilder instead.(ïÍ

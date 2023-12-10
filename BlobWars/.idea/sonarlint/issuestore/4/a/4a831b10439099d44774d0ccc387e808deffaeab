@@ -1,0 +1,43 @@
+
+\
+java:S18543":Remove this useless assignment to local variable "board6".(êŠ™™ûÿÿÿÿ8³ëïãâ/
+W
+java:S1854-":Remove this useless assignment to local variable "board5".(ÕèÏ£8ú‡˜×â/
+U
+java:S1854(":Remove this useless assignment to local variable "board4".(Âàğçÿÿÿÿÿ
+P
+java:S1854"":Remove this useless assignment to local variable "board3".(‘½¬ø
+\
+java:S1854":Remove this useless assignment to local variable "board2".(Æ²ÍÚûÿÿÿÿ8ÉÃ­×â/
+\
+java:S1854":Remove this useless assignment to local variable "board1".(ÿò­‹úÿÿÿÿ8¼ÊÉäâ/
+T
+java:S1854	"9Remove this useless assignment to local variable "board".(ùş°½ûÿÿÿÿ
+E
+java:S1481"*Remove this unused "state" local variable.(Ğ·ÂŒüÿÿÿÿ
+G
+java:S1197	",Move the array designators [][] to the type.(ùş°½ûÿÿÿÿ
+G
+java:S1197",Move the array designators [][] to the type.(ÿò­‹úÿÿÿÿ
+M
+java:S1481"+Remove this unused "board1" local variable.(ÿò­‹úÿÿÿÿ8¼ÊÉäâ/
+G
+java:S1197",Move the array designators [][] to the type.(Æ²ÍÚûÿÿÿÿ
+M
+java:S1481"+Remove this unused "board2" local variable.(Æ²ÍÚûÿÿÿÿ8—Ï¬×â/
+B
+java:S1197"",Move the array designators [][] to the type.(‘½¬ø
+A
+java:S1481""+Remove this unused "board3" local variable.(‘½¬ø
+G
+java:S1197(",Move the array designators [][] to the type.(Âàğçÿÿÿÿÿ
+F
+java:S1481("+Remove this unused "board4" local variable.(Âàğçÿÿÿÿÿ
+I
+java:S1197-",Move the array designators [][] to the type.(ÕèÏ£8˜Ï¬×â/
+H
+java:S1481-"+Remove this unused "board5" local variable.(ÕèÏ£8ı‡˜×â/
+N
+java:S11973",Move the array designators [][] to the type.(êŠ™™ûÿÿÿÿ8ËÃ­×â/
+M
+java:S14813"+Remove this unused "board6" local variable.(êŠ™™ûÿÿÿÿ8¸ëïãâ/

@@ -1,0 +1,4 @@
+
+
+java:S1130"‚Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from constructor's body.(½‘ϊÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(“Ο®γόÿÿÿÿ

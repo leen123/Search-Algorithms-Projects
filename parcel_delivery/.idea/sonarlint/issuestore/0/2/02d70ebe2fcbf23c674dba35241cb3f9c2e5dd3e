@@ -1,0 +1,18 @@
+
+B
+java:S1197",Move the array designators [][] to the type.(˜®¬µ
+E
+java:S1197	"*Move the array designators [] to the type.(¨Ž¡€ýÿÿÿÿ
+@
+java:S1197
+"*Move the array designators [] to the type.(÷Œî 
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(áåžÎýÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(“Ï®ãüÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+W
+java:S1126B"AReplace this if-then-else statement by a single return statement.(›Œß
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+b
+java:S3973)"GUse indentation to denote the code conditionally executed by this "if".(ôÔ›èÿÿÿÿÿ

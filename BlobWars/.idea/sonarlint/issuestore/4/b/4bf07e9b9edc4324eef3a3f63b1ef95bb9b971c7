@@ -1,0 +1,85 @@
+
+>
+java:S1659"#Declare "level" on a separate line.(ÿ×öÅüÿÿÿÿ
+Z
+java:S1659p"DDeclare "numNode" and all following declarations on a separate line.(–÷Æß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÄ¦Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å»Ôõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å»Ôõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î‚í¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìÚÁÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·Ø±Š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ·‘­
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ÇŽ¶p
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(™ù …ÿÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(×üËÐ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(óÈËíúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ýÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÂÝÂÚ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ç›¨Åüÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(è¢õøùÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(†ÖÂÏúÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(è¢õøùÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ùéÓðúÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.( û£
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(è¢õøùÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¢ÜÅ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(¡ÏÑõ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(·¾×Ã
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ç›¨Åüÿÿÿÿ
+6	java:S131_""Add a default case to this switch.(•Ø†e
+4
+java:S2119m"Save and re-use this "Random".(éååø
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(šÈÞ§
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(šÈÞ§
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(áÇÿ­
+W	java:S125†"<This block of commented-out lines of code should be removed.(‚ôØÀùÿÿÿÿ
+P
+java:S1117"9Rename "best" which hides the field declared at line 113.(ô¤Ž¦
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(šÈÞ§
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(öÄ€œùÿÿÿÿ
+Q	java:S125˜"<This block of commented-out lines of code should be removed.(³á‘8
+R	java:S125¤"<This block of commented-out lines of code should be removed.(²›½È
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‘ôîŠ
+P
+java:S1117°"9Rename "best" which hides the field declared at line 113.(ô¤Ž¦
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(›£ÒÜ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(ó×ÎÜ
+2
+java:S1116Ô"Remove this empty statement.(™…™:
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(¢ˆ¼‹
+W	java:S125é"<This block of commented-out lines of code should be removed.(ø™Ûßúÿÿÿÿ
+Q	java:S125ï"<This block of commented-out lines of code should be removed.(³á‘8
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŽÅÕ³þÿÿÿÿ
+P
+java:S1117…"9Rename "best" which hides the field declared at line 113.(ô¤Ž¦
+S
+java:S3972Œ"7Move this "if" to a new line or add the missing "else".(ø¸ÒÜûÿÿÿÿ
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(­–ÀÅùÿÿÿÿ
+_
+java:S1192v"IDefine a constant instead of duplicating this literal "count : " 3 times.(šÈÞ§
+‡
+java:S1192"lDefine a constant instead of duplicating this literal "===========================================" 9 times.(¬‘‡¾ýÿÿÿÿ
+s	java:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+€
+java:S1319	"eThe type of "visit" should be an interface such as "List" rather than the implementation "ArrayList".(­–ÀÅùÿÿÿÿ
+l
+java:S1104	"QMake visit a static final constant or non-public and provide accessors if needed.(­–ÀÅùÿÿÿÿ
+^
+java:S3973Û"GUse indentation to denote the code conditionally executed by this "if".(ÌÔÊž
+`
+java:S2583Œ"DChange this condition so that it does not always evaluate to "false"(ø¸ÒÜûÿÿÿÿ
