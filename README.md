@@ -50,12 +50,13 @@ Blob Wars is a two-player game implemented in Java. Players can compete against 
 
 ## Author
 
-This project was developed by [Leen Alashkar]. You can reach me via email: [leenalashkar123@gmail.com].
+This project was developed by Leen Alashkar. You can reach me via email: leenalashkar123@gmail.com.
 
 ## Team
 
 - Ahmad Mriwed, email: mr.ahmadmriwed@gmail.com
 - Leen Alashkar, email: leenalashkar123@gmail.com
+- Marymar Radwan, email:marymarradwan@gmail.com
 
 ## License
 
